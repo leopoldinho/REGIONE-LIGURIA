@@ -19,7 +19,7 @@ AE - Attività Economica | Descrizione	descrizione dell'attività economica dell
 RA - Risultato Atteso | Descrizione	Coincide con gli obiettivi specifici
 RA - Obiettivo tematico | Descrizione	Obiettivi tematici del FESR
 Provincia | Descrizione	Localizzazione del progetto…alcuni vengono conteggiati più volte perché localizzati su più province |
-Stato Attuazione Progetto	stato di avanzamento del progetto |
-Costo Ammesso	Valore dell' investimento ammesso a finanziamento |
-Importo Impegni ammessi	Valore degli impegni giuridicamente vincolanti |
-Importo Pagamenti ammessi	Pagamenti sostenuti dai beneficiari ammessi a carico del FESR |
+Stato Attuazione Progetto |	Stato di avanzamento del progetto |
+Costo Ammesso	| Valore dell' investimento ammesso a finanziamento |
+Importo Impegni ammessi	| Valore degli impegni giuridicamente vincolanti |
+Importo Pagamenti ammessi |	Pagamenti sostenuti dai beneficiari ammessi a carico del FESR |
