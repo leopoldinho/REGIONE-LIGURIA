@@ -29,6 +29,16 @@
 **OS6.2**|Articolzione IV livello |Riduzione dei consumi energetici negli edifici e nelle strutture pubbliche o ad uso pubblico, residenziali e non residenziali e integrazione di fonti rinnovabili (Rif. RA 4.1 AP)|
 **OS6.4**|Articolzione IV livello |Riduzione del rischio idrogeologico e di erosione costiera (Rif. RA 5.1 AP)
 **OSAT**|Articolzione IV livello |Garantire l'efficace ed efficiente programmazione e implementazione del Programma, attraverso azioni e strumenti di supporto, monitoraggio, valutazione, informazione e comunicazione.|
+**1.1.3**|LA - Linea Azione - Codice |Sostegno alla valorizzazione economica dell'innovazione attraverso la sperimentazione e l'adozione di soluzioni innovative nei processi, nei prodotti e nelle formule organizzative, nonché attraverso il finanziamento dell'industrializzazione dei risultati della ricerca.|
+**1.2.2**|LA - Linea Azione - Codice | Supporto alla realizzazione di progetti complessi di attività di ricerca e sviluppo su poche aree tematiche di rilievo e all'applicazione di soluzioni tecnologiche funzionali  alla realizzazione delle strategie di S3 |
+**1.5.1**|LA - Linea Azione - Codice |Sostegno alle infrastrutture della ricerca considerate critiche/cruciali per i sistemi regionali |
+**2.1.1**|LA - Linea Azione - Codice |Contributo all'attuazione del "Progetto Strategico Agenda Digitale per la Banda Ultra Larga" e di altri interventi programmati per assicurare nei territori una capacità di connessione a almeno 30 Mbps, accelerandone l'attuazione nelle aree produttive, e nelle aree rurali e interne, nel rispetto del principio di neutralità tecnologica e nelle aree consentite dalla normativa comunitaria|
+**2.2.1**|LA - Linea Azione - Codice |Soluzioni tecnologiche per la digitalizzazione e l'iinovazione dei processi interni dei vari ambiti della Pubblica Amministrazione nel quadro del Sistema pubblico di connettività, quali ad esempio la giustizia, la sanità, il turismo, le attività e i beni culturali, i servizi alle imprese|
+**2.2.2**|LA - Linea Azione - Codice |Soluzioni tecnologiche per la realizzazione di servizi di e-Government interoperabili, integrati (joined-up services) e progettati con cittadini e imprese e soluzioni integrate per le smart cities and communities |
+**3.1.1**|LA - Linea Azione - Codice | Aiuti per investimenti in macchinari, impianti e beni intangibili, e accompagnamento dei processi di riorganizzazione e ristrutturazione aziendale |
+**3.2.1**|LA - Linea Azione - Codice | Interventi di sostegno ad aree territoriali colpite da crisi diffusa delle attività produttive, finalizzati alla mitigazione degli effetti delle transizioni industriali sugli individui e sulle imprese|
+
+
 
 
 
