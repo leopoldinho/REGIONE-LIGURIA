@@ -8,10 +8,9 @@
 **Tipologia Programma** | Codice	Investment for growth and job -  investimenti a favore della crescita e dell’occupazione |
 **Progetto** | Codice	codice univoco che identifica la singola operazione finanziata con il POR |
 **Progetto** | Titolo	Titolo dell'operazione |
-**Articolazione I livello** | Codice	codice dell'asse |
-**Articolazione III livello** | Descrizione	nell'ambito degli obiettivi tematici rappresentano le priorità di investimento |
-**Articolazione IV livello** | Descrizione	nell' ambito delle priorità di investimento rappresentano obiettivi specifici |
-**Progetto** | Sintesi	Sintesi dell'operazione |
+**Articolazione I livello** | Codice dell'asse |
+**Articolazione III livello** | Codice dell'ambito degli obiettivi tematici rappresentano le priorità di investimento |
+**Articolazione IV livello** | Codice	dell' ambito delle priorità di investimento rappresentano obiettivi specifici |
 **CI - Campo Intervento** | Descrizione	Categoria di intervento dell'operazione |
 **FF - Forma di Finanziamento** | Descrizione	Tipologia di sostegno |
 **TT - Tipo di Territorio** | Descrizione	Classificazione del territorio in base alla dimensione |
