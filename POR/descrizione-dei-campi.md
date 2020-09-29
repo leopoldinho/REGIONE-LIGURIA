@@ -5,20 +5,20 @@
 
 | Nome campo                  | Descrizione                       |
 |-----------------------------|-----------------------------------|
-**Tipologia Programma** | Codice	Investment for growth and job -  investimenti a favore della crescita e dell’occupazione |
-**Progetto** | Codice	codice univoco che identifica la singola operazione finanziata con il POR |
-**Progetto** | Titolo	Titolo dell'operazione |
-**Articolazione I livello** | Codice dell'asse |
-**Articolazione III livello** | Codice dell'ambito degli obiettivi tematici rappresentano le priorità di investimento |
-**Articolazione IV livello** | Codice	dell' ambito delle priorità di investimento rappresentano obiettivi specifici |
-**CI - Campo Intervento** | Descrizione	Categoria di intervento dell'operazione |
-**FF - Forma di Finanziamento** | Descrizione	Tipologia di sostegno |
-**TT - Tipo di Territorio** | Descrizione	Classificazione del territorio in base alla dimensione |
-**AE - Attività Economica** | Descrizione	descrizione dell'attività economica dell'operazione |
-**RA - Risultato Atteso** | Descrizione	Coincide con gli obiettivi specifici
-**RA - Obiettivo tematico** | Descrizione	Obiettivi tematici del FESR
+**Tipologia_Programma** | Codice	Investment for growth and job -  investimenti a favore della crescita e dell’occupazione |
+**Progetto_Codice** | Codice univoco che identifica la singola operazione finanziata con il POR |
+**Progetto_Titolo** | Titolo dell'operazione |
+**Articolazione_I_livello** | Codice dell'asse |
+**Articolazione_III_livello** | Codice dell'ambito degli obiettivi tematici rappresentano le priorità di investimento |
+**Articolazione_IV_livello** | Codice	dell' ambito delle priorità di investimento rappresentano obiettivi specifici |
+**CI_Campo_Intervento** | Descrizione	Categoria di intervento dell'operazione |
+**FF_Forma_di_Finanziamento** | Descrizione	Tipologia di sostegno |
+**TT_Tipo_di_Territorio** | Descrizione	Classificazione del territorio in base alla dimensione |
+**AE_Attività_Economica** | Descrizione	descrizione dell'attività economica dell'operazione |
+**RA_Risultato_Atteso** | Descrizione	Coincide con gli obiettivi specifici
+**RA_Obiettivo tematico** | Descrizione	Obiettivi tematici del FESR
 **Provincia** | Descrizione	Localizzazione del progetto (alcuni vengono conteggiati più volte perché localizzati su più province) |
-**Stato Attuazione Progetto** |	Stato di avanzamento del progetto |
-**Costo Ammesso**	| Valore dell' investimento ammesso a finanziamento |
-**Importo Impegni ammessi**	| Valore degli impegni giuridicamente vincolanti |
-**Importo Pagamenti ammessi** |	Pagamenti sostenuti dai beneficiari ammessi a carico del FESR |
+**Stato_Attuazione_Progetto** |	Stato di avanzamento del progetto |
+**Costo_Ammesso**	| Valore dell' investimento ammesso a finanziamento |
+**Importo_Impegni_ammessi**	| Valore degli impegni giuridicamente vincolanti |
+**Importo_Pagamenti_ammessi** |	Pagamenti sostenuti dai beneficiari ammessi a carico del FESR |
