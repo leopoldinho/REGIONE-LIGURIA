@@ -20,5 +20,6 @@
 **Provincia_Descrizione** | Localizzazione del progetto (alcuni vengono conteggiati più volte perché localizzati su più province) |
 **Stato_Attuazione_Progetto** |	Stato di avanzamento del progetto |
 **Costo_Ammesso**	| Valore dell'investimento ammesso a finanziamento |
+**Comune_Descrizione**	| Localizzazione del progetto su base comunale |
 **Importo_Impegni_ammessi**	| Valore degli impegni giuridicamente vincolanti |
 **Importo_Pagamenti_ammessi** |	Pagamenti sostenuti dai beneficiari ammessi a carico del FESR |
