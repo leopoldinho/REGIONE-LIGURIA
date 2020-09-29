@@ -11,7 +11,7 @@
 **Articolazione_I_livello** | Codice dell'asse |
 **Articolazione_III_livello** | Codice dell'ambito degli obiettivi tematici rappresentano le priorità di investimento |
 **Articolazione_IV_livello** | Codice	dell' ambito delle priorità di investimento rappresentano obiettivi specifici |
-**CI_Campo_Intervento_DEscrizione** | Descrizione	Categoria di intervento dell'operazione |
+**CI_Campo_Intervento_Descrizione** | Descrizione	Categoria di intervento dell'operazione |
 **FF_Forma_di_Finanziamento** | Tipologia di sostegno |
 **TT_Tipo_di_Territorio_Descrizione** | Classificazione del territorio in base alla dimensione |
 **AE_Attività_Economica_Descrizione** | Descrizione dell'attività economica dell'operazione |
