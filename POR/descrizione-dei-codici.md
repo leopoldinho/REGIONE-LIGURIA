@@ -29,7 +29,7 @@
 **OS3.1**|Articolzione_IV_livello_Descrizione |Rilancio della propensione agli investimenti del sistema produttivo (Rif. RA 3.1 AP)|
 **OS3.6**|Articolzione_IV_livello_Descrizione |Miglioramento dell'accesso al credito, del finanziamento delle imprese e della gestione del rischio in agricoltura (Rif. RA 3.6 AP)|
 **OS3.7**|Articolzione_IV_livello_Descrizione |Diffusione e rafforzamento delle attività economiche a contenuto sociale (Rif. RA 3.7 AP)|
-**OS4.1**|Articolzione IV livello |Riduzione dei consumi energetici negli edifici e nelle strutture pubbliche o ad uso pubblico, residenziali e non residenziali e integrazione di fonti rinnovabili (Rif. RA 4.1 AP)|
+**OS4.1**|Articolzione_IV_livello_Descrizione |Riduzione dei consumi energetici negli edifici e nelle strutture pubbliche o ad uso pubblico, residenziali e non residenziali e integrazione di fonti rinnovabili (Rif. RA 4.1 AP)|
 **OS4.2**|Articolzione_IV_livello_Descrizione |Riduzione dei consumi energetici e delle emissioni nelle imprese e integrazione di fonti rinnovabili (Rif. RA 4.2 AP)|
 **OS4.6**|Articolzione_IV_livello_Descrizione |Aumentare la mobilità sostenibile nelle aree urbane (Rif. RA 4.6 AP)|
 **OS5.1**|Articolzione_IV_livello_Descrizione |Riduzione del rischio idrogeologico e di erosione costiera (Rif. RA 5.1 AP)|
