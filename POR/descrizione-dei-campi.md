@@ -17,7 +17,7 @@
 **AE_Attività_Economica_Descrizione** | Descrizione dell'attività economica dell'operazione |
 **RA_Risultato_Atteso_Descrizione** | Coincide con gli obiettivi specifici
 **RA_Obiettivo tematico_Descrizione** | Obiettivi tematici del FESR |
-**Provincia_Descrizione** | Descrizione	Localizzazione del progetto (alcuni vengono conteggiati più volte perché localizzati su più province) |
+**Provincia_Descrizione** | Localizzazione del progetto (alcuni vengono conteggiati più volte perché localizzati su più province) |
 **Stato_Attuazione_Progetto** |	Stato di avanzamento del progetto |
 **Costo_Ammesso**	| Valore dell'investimento ammesso a finanziamento |
 **Importo_Impegni_ammessi**	| Valore degli impegni giuridicamente vincolanti |
