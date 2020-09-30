@@ -1,7 +1,6 @@
-### Descrizione codici
+### Descrizione campi
 
 **Directory:**  REGIONE-LIGURIA<br>
-**Struttura file:** progetti-POR-Liguria-yyymmdd.csv (dpc-covid19-ita-regioni-20200224.csv)<br>
 
 | Nome campo                  | Descrizione                       |
 |-----------------------------|-----------------------------------|
